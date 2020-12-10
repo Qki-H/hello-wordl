@@ -5,3 +5,4 @@ def greet(last_name, first_name):
 
 greet("Qki", "Hofelmajer")
 greet("Marian", "Kowalski")
+greet("Adam", "Wiśniewski")
